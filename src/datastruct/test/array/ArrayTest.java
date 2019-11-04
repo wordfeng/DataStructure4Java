@@ -1,5 +1,6 @@
-package datastruct.basic.array;
+package datastruct.test.array;
 
+import datastruct.basic.array.Array;
 import org.junit.Test;
 
 public class ArrayTest {

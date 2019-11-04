@@ -1,4 +1,4 @@
-package datastruct.basic.array;
+package datastruct.test.array;
 
 public class Student {
     private String name;
